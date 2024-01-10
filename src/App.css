@@ -1,0 +1,13 @@
+.App{
+
+height: 100%;
+
+
+&_main-page-contect{
+
+    height: calc(100%-80px);
+
+
+}
+
+}
